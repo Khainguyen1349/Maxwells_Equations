@@ -1,4 +1,4 @@
-# Maxwell
+# Maxwell's equations
 
 To fully understand the marvels of Maxwell's equations, I deep-dived into the mathematical aspects of it throughout different case studies. 
 
@@ -12,10 +12,10 @@ Try to remember this **A** is the function/equation, **v** is the state. In the 
 To visualize two of the eigenstates, I have plotted beautifully one higher mode TM311 of a cylindrical cavity as follows.
 
 ### 3D EField 
-<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DElectricFieldTM311.png" width=40% height=40%>
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DElectricFieldTM311.png" width=60% height=60%>
 
 ### 3D HField 
-<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DMagneticFieldTM311.png" width=40% height=40%>
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DMagneticFieldTM311.png" width=60% height=60%>
 
 ### 2D EField and HField
 <img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/2DEHFieldTM311.png" width=60% height=60%>
@@ -34,9 +34,11 @@ In the example below, I generate an electrical field radiated by an array of Her
 <img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Plane_Wave_Expansion/Figures/ElectricalFieldAt100mm.png" width=60% height=60%>
 
 ### Radiation pattern extracted 
-<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Plane_Wave_Expansion/Figures/RadiationField.png" width=60% height=60%>
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Plane_Wave_Expansion/Figures/RadiationField.png" width=40% height=40%>
+
+## Dispersion Diagram
 
 ## Raytracing
 
-## Dispersion Diagram
+
 
