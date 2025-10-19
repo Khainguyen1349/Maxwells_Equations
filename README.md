@@ -12,12 +12,11 @@ Try to remember this **A** is the function/equation, **v** is the state. In the 
 To visualize two of the eigenstates, I have plotted as follows.
 
 ### 3D EField 
-
-![alt text](https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DElectricFieldTM311.png)
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DElectricFieldTM311.png" width=40% height=40%>
 
 ### 3D HField 
-![alt text](https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DMagneticFieldTM311.png)
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/3DMagneticFieldTM311.png" width=40% height=40%>
 
 ### 2D EField and HField
-![alt text](https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/2DEHFieldTM311.png)
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Cylindrical_Cavity_Modes/Figures/2DEHFieldTM311.png" width=40% height=40%>
 
