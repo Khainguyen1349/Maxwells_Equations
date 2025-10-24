@@ -69,7 +69,7 @@ Paper 2: M. Poveda-Garcia, F. Mesa, A. Algaba-Brazález, O. Quevedo-Teruel and J
 ### Ray-tracing with circular lens
 <img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/Ray_Tracing_Circular_Lens.png" width=60% height=60%>
 
-### 2D radiation patterns with dispacements of the source 
+### 2D radiation patterns with different incident waves from the LWA 
 <img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/2D_Radiation_Pattern_Scanning.png" width=60% height=60%>
 
 
