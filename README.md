@@ -37,8 +37,41 @@ In the example below, I generate an electrical field radiated by an array of Her
 <img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Plane_Wave_Expansion/Figures/RadiationField.png" width=40% height=40%>
 
 ## Dispersion Diagram
+[Text to write]
+
+Link useful: https://empossible.net/wp-content/uploads/2020/05/Lecture-Electromagnetic-Waves-in-Periodic-Structures.pdf
+
+### Dispersion Diagram Contour
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Dispersion_Diagram/Figures/Dispersion_Diagram_Contour.png" width=60% height=60%>
+
+### Dispersion Diagram 3D
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Dispersion_Diagram/Figures/Dispersion_Diagram_3D.png" width=60% height=60%>
+
+### Dispersion Diagram Contour
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Dispersion_Diagram/Figures/Iso_Frequency_Contour.png" width=60% height=60%>
+
 
 ## Raytracing
+[Text to write]
+
+Paper 1:M. Chen, O. Habiboglu, F. Mesa and O. Quevedo-Teruel, "Ray-Tracing and Physical-Optics Model for Planar Mikaelian Lens Antennas," in IEEE Transactions on Antennas and Propagation, vol. 72, no. 2, pp. 1735-1744, Feb. 2024, doi: 10.1109/TAP.2023.3348983.
+
+### Wave collimation with source displacements
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/Ray_Tracing_Rectangular_Lens_Source_m50.png" width=60% height=60%>
+
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/Ray_Tracing_Rectangular_Lens_Source_0.png" width=60% height=60%>
+
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/Ray_Tracing_Rectangular_Lens_Source_p50.png" width=60% height=60%>
+
+Paper 2: M. Poveda-Garcia, F. Mesa, A. Algaba-Brazález, O. Quevedo-Teruel and J. L. Gomez-Tornero, "Ray-Tracing and Physical Optics Modeling of Leaky Wave Antennas Combined With Lenses," in IEEE Transactions on Antennas and Propagation, vol. 73, no. 3, pp. 1296-1307, March 2025, doi: 10.1109/TAP.2024.3487356.
+
+
+### Ray-tracing with circular lens
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/Ray_Tracing_Circular_Lens.png" width=60% height=60%>
+
+### 2D radiation patterns with dispacements of the source 
+<img src="https://github.com/Khainguyen1349/Maxwells_Equations/blob/main/Ray_Tracing/Figures/2D_Radiation_Pattern_Scanning.png" width=60% height=60%>
+
 
 
 
